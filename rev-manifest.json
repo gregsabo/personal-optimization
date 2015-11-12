@@ -13,12 +13,12 @@
   "fonts/icons.svg": "fonts/icons-6405ca8423.svg",
   "fonts/icons.ttf": "fonts/icons-ba30ee8ea0.ttf",
   "fonts/icons.woff": "fonts/icons-56c53ac969.woff",
-  "fonts/icons.woff2": "fonts/icons-f7487e9657.woff2",
+  "fonts/icons.woff2": "fonts/icons-1d2bf8cce7.woff2",
   "images/gulp-starter-logo.png": "images/gulp-starter-logo-d34866d991.png",
   "images/gulp.png": "images/gulp-743c01b886.png",
   "images/sprites.svg": "images/sprites-2ad42f5746.svg",
-  "javascripts/app.js": "javascripts/app-b44826cca2950a597b50.js",
-  "javascripts/page.js": "javascripts/page-b44826cca2950a597b50.js",
-  "javascripts/shared.js": "javascripts/shared-b44826cca2950a597b50.js",
-  "stylesheets/global.css": "stylesheets/global-e38769a20e.css"
+  "javascripts/app.js": "javascripts/app-4589a1fe7c2bad1cb6cd.js",
+  "javascripts/page.js": "javascripts/page-4589a1fe7c2bad1cb6cd.js",
+  "javascripts/shared.js": "javascripts/shared-4589a1fe7c2bad1cb6cd.js",
+  "stylesheets/global.css": "stylesheets/global-3c8d92af97.css"
 }
